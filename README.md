@@ -7,6 +7,8 @@ Python script to export Fortigate FW configurations
 
 pip install openpyxl 
 pip install regex
+pip install tqdm
+
 
 
 - download config file from Fortigate FW 
